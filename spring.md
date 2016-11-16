@@ -1,1 +1,1 @@
-start.spring.io
+http://start.spring.io
