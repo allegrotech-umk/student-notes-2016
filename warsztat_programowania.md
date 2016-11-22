@@ -3,3 +3,4 @@ Hasła:
 * klasy anemiczne
 * encje
 * struktura testu (given, when, then)
+* equals/hashcode
