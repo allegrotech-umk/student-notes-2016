@@ -10,4 +10,5 @@ Przemysław Smyczyński |      | :+1: |:+1:|
 Patryk Bieszke |      | :+1: ||
 Weronika Cybińska |     | :+1: ||
 Mikołaj Szczupak  |     | :+1: | :+1: |
+Mariusz Różański |     |      | :+1: |
 suma             | 5   | 10 ||
