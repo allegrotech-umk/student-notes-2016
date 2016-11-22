@@ -1,4 +1,4 @@
-Imie i Nazwisko  | 18.10 | 15.11 |
+Imie i Nazwisko  | 18.10 | 15.11 | | 22.11 |
 ---------------- | ----- | ----- |
 Radosław Mariowski | :+1: | :+1: |
 Piotr Kumorek	 | :+1:	| :+1: |   	
@@ -9,5 +9,5 @@ Krzysztof Kłopocki |      | :+1: |
 Przemysław Smyczyński |      | :+1: |
 Patryk Bieszke |      | :+1: |
 Weronika Cybińska |     | :+1: |
-Mikołaj Szczupak  |     | :+1: |
+Mikołaj Szczupak  |     | :+1: |  | :+1: |
 suma             | 5   | 10 |
