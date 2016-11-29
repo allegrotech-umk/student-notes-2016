@@ -11,4 +11,4 @@ Patryk Bieszke |      | :+1: |:+1:| |
 Weronika Cybińska |     | :+1: | :+1: | |
 Mikołaj Szczupak  |     | :+1: | :+1: | :+1: |
 Mariusz Różański |     |      | :+1: |  |
-suma             | 5   | 10 | 1 |
+suma             | 5   | 10 | 11 | 1 |
