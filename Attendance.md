@@ -8,7 +8,7 @@ Hubert Stępiński |      |:+1:| :+1:|:+1:|:+1:  | |
 Daria Chełstowska |        | :+1: |:+1:| :+1: | | :+1: |
 Krzysztof Kłopocki |      | :+1: | :+1: | | :+1: | :+1: |
 Przemysław Smyczyński |      | :+1: |:+1:| :+1: | :+1: | :+1: |
-Patryk Bieszke |      | :+1: |:+1:| :+1: | :+1: | |
+Patryk Bieszke |      | :+1: |:+1:| :+1: | :+1: | :+1: |
 Weronika Cybińska |     | :+1: | :+1: | | :+1: | :+1: |
 Mikołaj Szczupak  |     | :+1: | :+1: | :+1: | :+1: | :+1: |
 Mariusz Różański |     |      | :+1: |  | | |
